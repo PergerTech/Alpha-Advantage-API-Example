@@ -1,0 +1,133 @@
+{
+    "Global Quote": {
+        "01. symbol": "GE",
+        "02. open": "8.3300",
+        "03. high": "8.6650",
+        "04. low": "8.1500",
+        "05. price": "8.3050",
+        "06. volume": "59590246",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "9.4000",
+        "09. change": "-1.0950",
+        "10. change percent": "-11.6489%"
+    }
+}
+The current price of stock GE is: $8.3
+
+{
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "605.3900",
+        "03. high": "662.9980",
+        "04. low": "605.0000",
+        "05. price": "632.4950",
+        "06. volume": "10701385",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "703.4800",
+        "09. change": "-70.9850",
+        "10. change percent": "-10.0905%"
+    }
+}
+The current price of stock TSLA is: $632.5
+
+{
+    "Note": "Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+}
+The current price of stock AMZN is: $1840.95
+
+{
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "1773.8600",
+        "03. high": "1862.7700",
+        "04. low": "1761.2901",
+        "05. price": "1840.9500",
+        "06. volume": "4829007",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "1901.0900",
+        "09. change": "-60.1400",
+        "10. change percent": "-3.1634%"
+    }
+}
+The current price of stock AMZN is: $1840.95
+
+{
+    "Global Quote": {
+        "01. symbol": "SPEX",
+        "02. open": "4.8300",
+        "03. high": "5.5200",
+        "04. low": "2.7500",
+        "05. price": "3.1500",
+        "06. volume": "61189878",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "1.6400",
+        "09. change": "1.5100",
+        "10. change percent": "92.0732%"
+    }
+}
+The current price of stock SPEX is: $3.12
+
+{
+    "Global Quote": {
+        "01. symbol": "BAC",
+        "02. open": "22.2300",
+        "03. high": "23.4900",
+        "04. low": "21.7500",
+        "05. price": "22.0050",
+        "06. volume": "75053464",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "25.7100",
+        "09. change": "-3.7050",
+        "10. change percent": "-14.4107%"
+    }
+}
+The current price of stock BAC is: $22.0
+
+{
+    "Global Quote": {
+        "01. symbol": "NOK",
+        "02. open": "3.3400",
+        "03. high": "3.4500",
+        "04. low": "3.3000",
+        "05. price": "3.3800",
+        "06. volume": "34569638",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "3.5700",
+        "09. change": "-0.1900",
+        "10. change percent": "-5.3221%"
+    }
+}
+The current price of stock NOK is: $3.38
+
+{
+    "Global Quote": {
+        "01. symbol": "SLCA",
+        "02. open": "1.6700",
+        "03. high": "1.8500",
+        "04. low": "1.4800",
+        "05. price": "1.5950",
+        "06. volume": "4704279",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "3.2800",
+        "09. change": "-1.6850",
+        "10. change percent": "-51.3720%"
+    }
+}
+The current price of stock SLCA is: $1.59
+
+{
+    "Global Quote": {
+        "01. symbol": "NRGD",
+        "02. open": "153.8400",
+        "03. high": "153.8200",
+        "04. low": "153.8200",
+        "05. price": "153.8200",
+        "06. volume": "565",
+        "07. latest trading day": "2020-03-09",
+        "08. previous close": "95.9346",
+        "09. change": "57.8854",
+        "10. change percent": "60.3384%"
+    }
+}
+The current price of stock NRGD is: $153.82
+
