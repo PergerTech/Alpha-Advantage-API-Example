@@ -53,6 +53,8 @@ def main():
 
             price_message = "The current price of stock {} is: ${}".format(input_symbol, stock_price)
             print(price_message)
+            print("="*60)
+            print("Stock Quoutes retreived successfully!")
 
             with open("japi.out", "a+") as f:
                 f.write("{}\n{}\n\n".format(stock_data, price_message))
