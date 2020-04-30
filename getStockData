@@ -1,8 +1,6 @@
 """
-Jared Waltisperger
-IFT 458 Spring 2020
+Author: Jared Waltisperger
 03/09/2020
-Module 5 Lab
 """
 
 import urllib.request
